@@ -1,0 +1,5 @@
+# Файлы python
+.venv
+.idea
+# Файл с историей конвертаций
+conversion_history.json
